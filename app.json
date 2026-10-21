@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "StudentAttendance_ReactNative",
-    "slug": "StudentAttendance_ReactNative",
+    "name": "MCA Student Attendance",
+    "slug": "mca-student-attendance",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,6 +19,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
